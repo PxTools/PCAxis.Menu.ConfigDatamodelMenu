@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <PackageProjectUrl>https://github.com/statisticssweden/PCAxis.Menu.ConfigDatamodelMenu</PackageProjectUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <RepositoryUrl>https://github.com/statisticssweden/PCAxis.Menu.ConfigDatamodelMenu.git</RepositoryUrl>
@@ -17,8 +17,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="PCAxis.Menu" Version="1.0.0" />
-    <PackageReference Include="PCAxis.Menu.MsSqlDatamodelMenu" Version="1.0.0-beta2" />
-    <PackageReference Include="PCAxis.Menu.OracleDatamodelMenu" Version="1.0.0-beta3" />
+    <PackageReference Include="PCAxis.Menu.MsSqlDatamodelMenu" Version="1.0.0" />
+    <PackageReference Include="PCAxis.Menu.OracleDatamodelMenu" Version="1.0.0" />
     <PackageReference Include="PCAxis.Sql" Version="1.0.0-beta4" />
   </ItemGroup>
 
