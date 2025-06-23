@@ -22,7 +22,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="PCAxis.Menu" Version="1.0.3" />
+    <PackageReference Include="PCAxis.Menu" Version="1.0.4" />
     <PackageReference Include="PCAxis.Menu.MsSqlDatamodelMenu" Version="1.0.4" />
     <PackageReference Include="PCAxis.Menu.OracleDatamodelMenu" Version="1.0.3" />
     <PackageReference Include="PCAxis.Sql" Version="1.4.3" />
