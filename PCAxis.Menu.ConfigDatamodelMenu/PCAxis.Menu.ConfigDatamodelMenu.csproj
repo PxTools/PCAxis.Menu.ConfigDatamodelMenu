@@ -26,7 +26,7 @@
     <PackageReference Include="PCAxis.Menu.MsSqlDatamodelMenu" Version="1.0.6" />
     <PackageReference Include="PCAxis.Menu.OracleDatamodelMenu" Version="1.0.6" />
     <PackageReference Include="PCAxis.Sql" Version="1.5.2" />
-    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.9" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.10" />
   </ItemGroup>
 
   <ItemGroup>
