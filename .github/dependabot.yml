@@ -18,6 +18,9 @@ updates:
       default-days: 9
       exclude:
         - "PCAxis.Sql"
+        - "PCAxis.Menu"
+        - "PCAxis.Menu.MsSqlDatamodelMenu"
+        - "PCAxis.Menu.OracleDatamodelMenu"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
